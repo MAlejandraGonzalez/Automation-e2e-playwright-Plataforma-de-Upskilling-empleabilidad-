@@ -20,7 +20,12 @@ npm install
 npx playwright test
 
 ## 📊 Test Coverage
-Qué cubrís
+Tipos de pruebas a ejecutar
+Pruebas funcionales
+Pruebas de regresión - Performance 
+Pruebas exploratorias
+Pruebas de API
+Pruebas automatizadas (UI + API)
 
 ## 👩‍💻 Author
-Tu nombre
+Alejandra Gonzalez
